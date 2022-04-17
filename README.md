@@ -19,4 +19,4 @@ A página web deve estar semelhante ao figma que foi dada como base. No entanto,
 
 ## Entrega
 
-Os arquivos devem ser compactados e enviados para o e-mail petcc@ci.ufpb.br até às 23:59 horas do dia 24/04/2022.
+Os arquivos devem ser compactados e enviados para o e-mail codetogether.petccufpb@gmail.com até às 23:59 horas do dia 24/04/2022.
